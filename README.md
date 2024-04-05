@@ -1,6 +1,7 @@
 # TAMU Sea Level Rise Data Challenge
 ## Team Members: Shawn Chin and Daniel Chen
 #### This is a team project for the TAMIDS Sea Data Challenge where students are given datasets related to sea level and they can conduct their own ML/Data visualization 
+#### The report pdf contains an explanation of what we did based on the data we chose
   ### IntialCSVFileCreation.ipynb/.py 
     - used to convert Mat files into CSV for easy data processing
   ### CSVFileIntegration (Program)
