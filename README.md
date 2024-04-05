@@ -11,3 +11,5 @@
     - ran the Augmented Dickey-Fuller test and adjusted the differenced value to make the data stationary
     - ran the Granger Causality Test to find the right number of lags for causation between the two variables
     - model ran well with a Root Mean Squared Error of 60 for MSLR and 17.87 for MGRD
+### final_vector_autogregressionmodel.py/.ipynb
+    - trained the VAR model with 2 more variables MIBE and MBSL
